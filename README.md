@@ -2,6 +2,9 @@
 COVID Corner is a COVID-19 statistics and news application catered to local municipalities in Ontario.
 Built using Flutter, NewsApi.org and Google sheets API.
 
+Email me @ ahmad.alsabbagh@mail.utoronto.ca for access to the repo.
+
+
 Home page:
 
 
